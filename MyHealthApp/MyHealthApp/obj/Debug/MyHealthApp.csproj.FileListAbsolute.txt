@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\bin\Debug\MyHealthDB.mdf
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\bin\Debug\MyHealthDB_log.ldf
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\bin\Debug\MyHealthApp.exe.config
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\bin\Debug\MyHealthApp.exe
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\bin\Debug\MyHealthApp.pdb
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.Form1.resources
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.Properties.Resources.resources
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.exe
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.pdb
+C:\Users\User\source\repos\MyHealthApp\MyHealthApp\obj\Debug\MyHealthApp.csprojAssemblyReference.cache
